@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GD9_A_9834.iml" filepath="$PROJECT_DIR$/.idea/modules/GD9_A_9834.iml" group="GD9_A_9834" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="GD9_A_9834/app" />
+    </modules>
+  </component>
+</project>
